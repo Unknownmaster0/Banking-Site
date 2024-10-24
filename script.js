@@ -279,7 +279,7 @@ function updateTimer() {
     // if user exist menas we have logged in.
     // then immediately need to start the timer
     // console.log(labelTimer);
-    let a = 1;
+    let a = 4;
     let b = 60;
     x();
     function x() {
